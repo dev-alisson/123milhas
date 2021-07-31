@@ -3,11 +3,10 @@
 Esse é um projeto fictício utilizado para realizar o desafio da empresa <br/> 
 123milhas para concorrer a vaga de desenvolvedor back-end.
 
-#### - URL do projeto
+#### - Project URL
 https://www.charmefitness.com.br
 
-
-#### - Rotas de acesso
+#### - Access routes
 https://www.charmefitness.com.br/123milhas/voos
 
 #### - Postman Collection
