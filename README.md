@@ -3,6 +3,10 @@
 Esse é um projeto fictício utilizado para realizar o desafio da empresa <br/> 
 123milhas para concorrer a vaga de desenvolvedor back-end.
 
+#### - Versions
+-- Laravel v8.* <br/>
+-- PHP v7.3.*
+
 #### - Development
 -- routes/web.php <br/>
 -- app/Http/Controllers/FlightController.php
