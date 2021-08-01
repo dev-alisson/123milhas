@@ -1,10 +1,10 @@
 ## About
 
-[PT]
+[PT] <br/>
 Esse é um projeto fictício utilizado para realizar o desafio da empresa <br/> 
 123milhas para concorrer a vaga de desenvolvedor back-end.
 
-[EN]
+[EN] <br/>
 This is a fictitious project used to carry out the company's 123miles <br/>
 challenge to compete for the position of back-end developer.
 
